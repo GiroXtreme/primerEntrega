@@ -1,0 +1,8 @@
+Información básica del curso: Phyton - Curso Educación continua TdeA
+		-id: 202.
+		-nombre: Phyton.
+		-duracion: 4 semanas.
+		-valor: $ 100.
+Información de la persona inscrita:
+		-Nombre: Giovanni.
+		-Cedula: 110022.
